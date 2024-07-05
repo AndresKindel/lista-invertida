@@ -21,9 +21,9 @@ Utilizamos uma estrutura de lista invertida para armazenar os elementos e facili
 
 #### Modularização
 
-- *Elemento*: Representa cada item do conjunto de dados com seus atributos.
+- *Pessoa*: Representa cada item do conjunto de dados com seus atributos.
 - *IndiceInvertido*: Gerencia a estrutura da lista invertida e as operações de busca.
-- *SistemaIndexacao*: Interface do sistema que gerencia a interação do usuário e operações principais.
+- *Sistema*: Interface do sistema que gerencia a interação do usuário e operações principais.
 
 ### Funcionalidades
 
@@ -36,4 +36,4 @@ Utilizamos uma estrutura de lista invertida para armazenar os elementos e facili
 
 ### Execução
 
-Para executar o programa, basta rodar o arquivo `sistema_indexacao.py`. A interface de menu permitirá ao usuário realizar todas as operações mencionadas.
+Para executar o programa, basta rodar o arquivo `sistema.py`. A interface de menu permitirá ao usuário realizar todas as operações mencionadas.

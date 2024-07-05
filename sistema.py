@@ -1,4 +1,4 @@
-from elemento import Pessoa
+from pessoa import Pessoa
 from indice_invertido import IndiceInvertido
 
 
