@@ -4,6 +4,11 @@
 
 O objetivo deste projeto é implementar um esquema de indexação complementar utilizando lista invertida para resolver problemas de busca eficiente em um conjunto de dados com múltiplos critérios. O sistema deve oferecer funcionalidades como carga de dados, busca simples e composta, inclusão e remoção de elementos, e exibição de todos os dados.
 
+#### Feito por:
+
+- Andres Kindel Barbosa - 23100757
+- Luiz Adriano Augusto dos Santos - 23102478
+
 ### Documentação
 
 #### Estrutura de Dados
