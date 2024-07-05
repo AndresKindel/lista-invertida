@@ -1,8 +1,8 @@
-class Elemento:
-    def __init__(self, id, nome, cidade_origem, curso, time, salario):
+class Pessoa:
+    def __init__(self, id, nome, cidade, curso, time, salario):
         self.id = id
         self.nome = nome
-        self.cidade_origem = cidade_origem
+        self.cidade = cidade
         self.curso = curso
         self.time = time
         self.salario = salario
